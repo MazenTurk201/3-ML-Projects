@@ -7,27 +7,29 @@
 These are my machine learning projects in Black Horse course.
 
 
-
-## Screen From App
+## Discribe
+* LinearRegression
+## Screen From Housing
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/MazenTurk201/Trash-Images-Storage/refs/heads/main/Project%20USA_Housing.jpeg">
 </p>
-### Discribe
+## Discribe
+* LinearRegression
 
-## Screen From App
+## Screen From Insurance
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/MazenTurk201/Trash-Images-Storage/refs/heads/main/Project%20insurance.jpeg">
 </p>
-### Discribe
+## Discribe
+* LogisticRegression
 
-## Screen From App
+## Screen From Diabetes
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/MazenTurk201/Trash-Images-Storage/refs/heads/main/Project%20diabetes.jpeg">
 </p>
-### Discribe
 
 ## Download Source Code
  ```bash
