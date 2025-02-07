@@ -14,6 +14,7 @@ These are my machine learning projects in Black Horse course.
 <p align="center">
 <img src="https://raw.githubusercontent.com/MazenTurk201/Trash-Images-Storage/refs/heads/main/Project%20USA_Housing.jpeg">
 </p>
+
 ## Discribe
 * LinearRegression
 
@@ -22,6 +23,8 @@ These are my machine learning projects in Black Horse course.
 <p align="center">
 <img src="https://raw.githubusercontent.com/MazenTurk201/Trash-Images-Storage/refs/heads/main/Project%20insurance.jpeg">
 </p>
+
+
 ## Discribe
 * LogisticRegression
 
